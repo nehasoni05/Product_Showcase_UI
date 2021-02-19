@@ -1,8 +1,7 @@
 # Product_Showcase_UI using gridview
-
-<b>Built Using:-</b>
 <hr/>
-<i><b>Flutter</b></i>
+<b>Built Using</b>
+<ul><li>Flutter</li></ul>
 <hr/>
 This is a single page UI and things which are used in this are:-
 <ol>
